@@ -1,6 +1,6 @@
-TEMPLATE|name|seedlessness|price
-data|Honeydew|True|0.99
-data|Crenshaw|False|2.00
-data|Crane|False|2.50
-data|Casaba|False|2.50
-data|Cantaloupe|False|0.99
+TEMPLATE|name|seedlessness|price|color
+data|Honeydew|True|0.99|green
+data|Crenshaw|False|2.00|yellow
+data|Crane|False|2.50|purple
+data|Casaba|False|2.50|white
+data|Cantaloupe|False|0.99|orange
