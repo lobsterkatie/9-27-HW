@@ -4,4 +4,3 @@ data|Crenshaw|False|2.00
 data|Crane|False|2.50
 data|Casaba|False|2.50
 data|Cantaloupe|False|0.99
- 
