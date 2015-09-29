@@ -15,7 +15,7 @@ def main():
         #first line of file holds data category names; get them
         if line.startswith("TEMPLATE"):
             line = line[9:]  # strip off 'TEMPLATE' label
-            catagories = line.split("|")  # get categories
+            categories = line.split("|")  # get categories
 
         #remaining lines hold data
         else:
